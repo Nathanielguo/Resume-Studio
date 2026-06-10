@@ -1,12 +1,17 @@
+<div align="center">
+  
 # Resume Studio · 高端简历工作台
 
-> 一款面向职场人的本地端简历制作工具，无需注册，打开即用，数据完全存储在本地。
+ 一款面向职场人的便捷简历排版与制作工具，无需注册，打开即用。
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Browser-lightgrey.svg)
 ![Version](https://img.shields.io/badge/version-3.0-gold.svg)
 
----
+[**立即使用 →**](https://resume-studio.gzl406633204.workers.dev/) &nbsp;·&nbsp; [报告问题](https://github.com/nathanielguo/Resume-Studio/issues) &nbsp;·&nbsp; [提交建议](https://github.com/nathanielguo/Resume-Studio/issues)
+
+</div>
+
 
 ## 特性
 
@@ -23,17 +28,17 @@
 
 ## 快速开始
 
-### 方式一：直接使用（推荐）
+### 方式一：下载使用
 
-1. 下载 html 文件
+1. 下载 HTML 文件
 2. 用 Chrome 或 Edge 打开
 3. 开始编辑
 
 无需安装任何依赖，单文件即可运行。
 
-### 方式二：在线使用
+### 方式二：在线使用（推荐）🌟🌟🌟
 
-访问 https://resume-studio.gzl406633204.workers.dev/
+[**立即使用 →**](https://resume-studio.gzl406633204.workers.dev/) &nbsp;
 
 ---
 
