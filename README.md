@@ -8,7 +8,9 @@
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Browser-lightgrey.svg)
 ![Version](https://img.shields.io/badge/version-3.0-gold.svg)
 
-[**立即使用 →**](https://resume-studio.gzl406633204.workers.dev/) &nbsp;·&nbsp; [报告问题](https://github.com/nathanielguo/Resume-Studio/issues) &nbsp;·&nbsp; [提交建议](https://github.com/nathanielguo/Resume-Studio/issues)
+[**立即使用 →**](https://resume-studio.gzl406633204.workers.dev/) &nbsp;
+
+&nbsp; [报告问题](https://github.com/nathanielguo/Resume-Studio/issues) &nbsp;·&nbsp; [提交建议](https://github.com/nathanielguo/Resume-Studio/issues)
 
 </div>
 
